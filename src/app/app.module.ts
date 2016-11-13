@@ -4,10 +4,12 @@ import { FormsModule } from '@angular/forms';
 import { HttpModule } from '@angular/http';
 
 import { AppComponent } from './app.component';
+import { SlMenuComponent } from './sl-menu/sl-menu.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    SlMenuComponent
   ],
   imports: [
     BrowserModule,
