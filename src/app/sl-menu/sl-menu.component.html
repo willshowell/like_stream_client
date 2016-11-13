@@ -1,3 +1,17 @@
-<p>
-  sl-menu works!
-</p>
+<div class="menu">
+  <div class="title">
+    <h1>Soundcloud Likes</h1>
+    <img src="assets/logo.svg">
+  </div>
+  <nav>
+    <ul *ngIf="!authenticated">
+      <li><a class="menu-link" href="">Sign In</a></li>
+      <li><a class="menu-link" href="">Register</a></li>
+    </ul>
+    <ul *ngIf="authenticated">
+      <li><a class="menu-link" href="">Stream</a></li>
+      <li><a class="menu-link" href="">Edit Feed</a></li>
+      <li><a class="menu-link" href="">Logout</a></li>
+    </ul>
+  </nav>
+</div>

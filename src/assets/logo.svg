@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="47px" height="42px" viewBox="0 0 47 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41 (35326) - http://www.bohemiancoding.com/sketch -->
+    <title>Combined Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Logo" transform="translate(-1.000000, -3.000000)" fill="#FFFFFF">
+            <g transform="translate(1.000000, 3.000000)" id="Combined-Shape">
+                <path d="M4.93487274,24 L9,28 L9,0.679783573 C7.65945746,1.19384065 6.15447696,2.04524477 5,3 L4.93487274,24.1308322 L4.93487274,24 Z M3,22 C-0.563476286,17.2112899 -0.563476286,9.78871013 3,5 L3,22 Z M10.9675808,30 L15,34 L15,0.115356445 C13.7421858,0.00770132452 12.2102491,0.00920136242 10.9675808,0.251104178 L10.9675808,30 Z M21,40 L21,2.4445515 C19.8165577,1.7032084 18.3143913,0.778885962 17.0002889,0.437411538 L17.0002889,36 M23.0205535,42 L42,23 C47.3353656,17.745166 47.6769872,9.19595949 42.3416215,3.9411255 C37.0062559,-1.3137085 28.3559191,-1.254834 23.0205535,4 C22.9743081,3.95445259 23.0205535,42 23.0205535,42 Z"></path>
+            </g>
+        </g>
+    </g>
+</svg>

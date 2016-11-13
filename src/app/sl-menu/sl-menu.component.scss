@@ -1,0 +1,48 @@
+.menu {
+  background-image: linear-gradient(80deg, #FF5500, #FF8E00);
+  color: #ffffff;
+  padding: 2rem;
+}
+
+.title {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  margin: 1rem auto;
+}
+
+h1 {
+  font-size: 26px;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+li {
+  float: right;
+}
+
+.menu-link {
+  border: 1px solid #ffffff;
+  border-radius: 4px;
+  color: #ffffff;
+  display: block;
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: -0.2px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+  width: 7rem;
+
+  &:hover {
+    color: #ff6d00;
+    background-color: white;
+  }
+}
